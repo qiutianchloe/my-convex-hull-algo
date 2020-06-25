@@ -1,0 +1,4 @@
+p0: 5.26 -7.62
+p1: -4.02 2.94
+p2: -5.60 8.07
+p2 is to the right of the line p0p1

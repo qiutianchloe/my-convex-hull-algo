@@ -1,0 +1,4 @@
+p0: 0.00 0.00
+p1: 1.00 1.00
+p2: 0.00 1.00
+p2 is to the left of the line p0p1

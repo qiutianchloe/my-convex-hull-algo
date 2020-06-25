@@ -1,0 +1,10 @@
+push 8.01 -5.29
+remove
+push -1.56 3.19
+insert -4.6 3.43
+pop
+pop
+push -3.59 -3.16
+pop
+insert -8.47 0.67
+pop

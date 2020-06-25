@@ -1,0 +1,10 @@
+insert -5.5 7.66
+push 5.93 8.21
+size
+pop
+push 10.0 0.28
+remove
+push -9.88 -3.54
+pop
+remove
+push 8.38 7.44

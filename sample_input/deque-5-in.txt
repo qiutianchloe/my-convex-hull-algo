@@ -1,0 +1,10 @@
+insert -5.11 -2.0
+insert -4.46 -8.64
+remove
+insert 4.02 4.43
+insert 7.61 -8.82
+pop
+pop
+pop
+insert -0.17 -2.06
+insert 0.74 -6.19
